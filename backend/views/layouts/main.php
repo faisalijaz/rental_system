@@ -1,6 +1,7 @@
 <?php
 
 // now you got the idea how to setup jenkins
+// test # 2
 
 /* @var $this \yii\web\View */
 /* @var $content string */
