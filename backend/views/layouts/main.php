@@ -2,6 +2,7 @@
 
 // now you got the idea how to setup jenkins
 // test # 2
+// check if it is automated now or not?
 
 /* @var $this \yii\web\View */
 /* @var $content string */
