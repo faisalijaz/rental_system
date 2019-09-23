@@ -3,6 +3,9 @@
 /* @var $this yii\web\View */
 
 $this->title = 'Rental System';
+
+
+$this->title = 'Rental System';
 ?>
 <div class="site-index">
 
